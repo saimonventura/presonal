@@ -1,3 +1,4 @@
 [submodule "Swift-App"]
 	path = Swift-App
+	branch = main
 	url = git@github.com:saimonventura/Swift-App.git
